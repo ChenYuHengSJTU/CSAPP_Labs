@@ -143,7 +143,9 @@ NOTES:
  *   Rating: 1
  */
 int bitXor(int x, int y) {
-  return 2;
+  int m = (~x) & y;
+  int n = (~y) & x;
+  return ~((~m) &  (~n));
 }
 /* 
  * tmin - return minimum two's complement integer 
@@ -164,6 +166,7 @@ int tmin(void) {
  *   Rating: 1
  */
 int isTmax(int x) {
+  // static int n=1;
   // int mask1 = 0xff;
   // int mask2 = mask1 << 8;
   // int mask3 = mask2 << 8;
@@ -172,10 +175,24 @@ int isTmax(int x) {
   // return !((~x) & mask);
   // int y = x + x;
   // y = y + 2;
+  // x = 0x7fffffff;
   int y = x + x + 2;
   // printf("0x%02x\t%d\t%d\n",x,y,(!y));
+  // printf("%d\n",!!(x+1));
+  // printf("%d\n",y);
+  // printf("%d\n",((!y) & (!!(x + 1))));
+
   // int z = (!y);
-  return (!!!y);
+  return ((!y) & (!!(x + 1)));
+  // if (n) {
+  //   int y = x + x + 2;
+  //   --n;
+  //   return ((!y) & (!!(x + 1)));
+  // }
+  // else {
+  //   int y = x + x + 2;
+  //   return ((!y));
+  // }
 }
 /* 
  * allOddBits - return 1 if all odd-numbered bits in word set to 1
