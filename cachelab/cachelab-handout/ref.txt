@@ -1,0 +1,1193 @@
+S, 600aa0 1
+hit: 0	miss: 1	evict: 0
+I, 4005b6 5
+hit: 0	miss: 1	evict: 0
+I, 4005bb 5
+hit: 0	miss: 1	evict: 0
+I, 4005c0 5
+hit: 0	miss: 1	evict: 0
+S, ff000398 8
+hit: 0	miss: 2	evict: 0
+I, 40051e 1
+hit: 0	miss: 2	evict: 0
+S, ff000390 8
+hit: 0	miss: 3	evict: 0
+I, 40051f 3
+hit: 0	miss: 3	evict: 0
+I, 400522 4
+hit: 0	miss: 3	evict: 0
+S, ff000378 8
+hit: 0	miss: 4	evict: 1
+I, 400526 4
+hit: 0	miss: 4	evict: 1
+S, ff000370 8
+hit: 0	miss: 5	evict: 2
+I, 40052a 7
+hit: 0	miss: 5	evict: 2
+S, ff000384 4
+hit: 0	miss: 6	evict: 3
+I, 400531 2
+hit: 0	miss: 6	evict: 3
+I, 400581 4
+hit: 0	miss: 6	evict: 3
+L, ff000384 4
+hit: 1	miss: 6	evict: 3
+I, 400585 2
+hit: 1	miss: 6	evict: 3
+I, 400533 7
+hit: 1	miss: 6	evict: 3
+S, ff000388 4
+hit: 1	miss: 7	evict: 3
+I, 40053a 2
+hit: 1	miss: 7	evict: 3
+I, 400577 4
+hit: 1	miss: 7	evict: 3
+L, ff000388 4
+hit: 2	miss: 7	evict: 3
+I, 40057b 2
+hit: 2	miss: 7	evict: 3
+I, 40053c 3
+hit: 2	miss: 7	evict: 3
+L, ff000384 4
+hit: 3	miss: 7	evict: 3
+I, 40053f 2
+hit: 3	miss: 7	evict: 3
+I, 400541 4
+hit: 3	miss: 7	evict: 3
+I, 400545 3
+hit: 3	miss: 7	evict: 3
+I, 400548 4
+hit: 3	miss: 7	evict: 3
+L, ff000378 8
+hit: 4	miss: 7	evict: 3
+I, 40054c 3
+hit: 4	miss: 7	evict: 3
+L, ff000388 4
+hit: 5	miss: 7	evict: 3
+I, 40054f 2
+hit: 5	miss: 7	evict: 3
+I, 400551 3
+hit: 5	miss: 7	evict: 3
+L, 600a20 4
+hit: 5	miss: 8	evict: 4
+I, 400554 3
+hit: 5	miss: 8	evict: 4
+S, ff00038c 4
+hit: 6	miss: 8	evict: 4
+I, 400557 3
+hit: 6	miss: 8	evict: 4
+L, ff000388 4
+hit: 7	miss: 8	evict: 4
+I, 40055a 2
+hit: 7	miss: 8	evict: 4
+I, 40055c 4
+hit: 7	miss: 8	evict: 4
+I, 400560 3
+hit: 7	miss: 8	evict: 4
+I, 400563 4
+hit: 7	miss: 8	evict: 4
+L, ff000370 8
+hit: 8	miss: 8	evict: 4
+I, 400567 3
+hit: 8	miss: 8	evict: 4
+L, ff000384 4
+hit: 8	miss: 9	evict: 5
+I, 40056a 3
+hit: 8	miss: 9	evict: 5
+I, 40056d 3
+hit: 8	miss: 9	evict: 5
+L, ff00038c 4
+hit: 9	miss: 9	evict: 5
+I, 400570 3
+hit: 9	miss: 9	evict: 5
+S, 600a60 4
+hit: 9	miss: 10	evict: 6
+I, 400573 4
+hit: 9	miss: 10	evict: 6
+M, ff000388 4
+hit: 11	miss: 10	evict: 6
+I, 400577 4
+hit: 11	miss: 10	evict: 6
+L, ff000388 4
+hit: 12	miss: 10	evict: 6
+I, 40057b 2
+hit: 12	miss: 10	evict: 6
+I, 40053c 3
+hit: 12	miss: 10	evict: 6
+L, ff000384 4
+hit: 12	miss: 11	evict: 7
+I, 40053f 2
+hit: 12	miss: 11	evict: 7
+I, 400541 4
+hit: 12	miss: 11	evict: 7
+I, 400545 3
+hit: 12	miss: 11	evict: 7
+I, 400548 4
+hit: 12	miss: 11	evict: 7
+L, ff000378 8
+hit: 13	miss: 11	evict: 7
+I, 40054c 3
+hit: 13	miss: 11	evict: 7
+L, ff000388 4
+hit: 14	miss: 11	evict: 7
+I, 40054f 2
+hit: 14	miss: 11	evict: 7
+I, 400551 3
+hit: 14	miss: 11	evict: 7
+L, 600a24 4
+hit: 14	miss: 12	evict: 8
+I, 400554 3
+hit: 14	miss: 12	evict: 8
+S, ff00038c 4
+hit: 15	miss: 12	evict: 8
+I, 400557 3
+hit: 15	miss: 12	evict: 8
+L, ff000388 4
+hit: 16	miss: 12	evict: 8
+I, 40055a 2
+hit: 16	miss: 12	evict: 8
+I, 40055c 4
+hit: 16	miss: 12	evict: 8
+I, 400560 3
+hit: 16	miss: 12	evict: 8
+I, 400563 4
+hit: 16	miss: 12	evict: 8
+L, ff000370 8
+hit: 17	miss: 12	evict: 8
+I, 400567 3
+hit: 17	miss: 12	evict: 8
+L, ff000384 4
+hit: 17	miss: 13	evict: 9
+I, 40056a 3
+hit: 17	miss: 13	evict: 9
+I, 40056d 3
+hit: 17	miss: 13	evict: 9
+L, ff00038c 4
+hit: 18	miss: 13	evict: 9
+I, 400570 3
+hit: 18	miss: 13	evict: 9
+S, 600a70 4
+hit: 18	miss: 14	evict: 10
+I, 400573 4
+hit: 18	miss: 14	evict: 10
+M, ff000388 4
+hit: 20	miss: 14	evict: 10
+I, 400577 4
+hit: 20	miss: 14	evict: 10
+L, ff000388 4
+hit: 21	miss: 14	evict: 10
+I, 40057b 2
+hit: 21	miss: 14	evict: 10
+I, 40053c 3
+hit: 21	miss: 14	evict: 10
+L, ff000384 4
+hit: 22	miss: 14	evict: 10
+I, 40053f 2
+hit: 22	miss: 14	evict: 10
+I, 400541 4
+hit: 22	miss: 14	evict: 10
+I, 400545 3
+hit: 22	miss: 14	evict: 10
+I, 400548 4
+hit: 22	miss: 14	evict: 10
+L, ff000378 8
+hit: 23	miss: 14	evict: 10
+I, 40054c 3
+hit: 23	miss: 14	evict: 10
+L, ff000388 4
+hit: 24	miss: 14	evict: 10
+I, 40054f 2
+hit: 24	miss: 14	evict: 10
+I, 400551 3
+hit: 24	miss: 14	evict: 10
+L, 600a28 4
+hit: 24	miss: 15	evict: 11
+I, 400554 3
+hit: 24	miss: 15	evict: 11
+S, ff00038c 4
+hit: 24	miss: 16	evict: 12
+I, 400557 3
+hit: 24	miss: 16	evict: 12
+L, ff000388 4
+hit: 25	miss: 16	evict: 12
+I, 40055a 2
+hit: 25	miss: 16	evict: 12
+I, 40055c 4
+hit: 25	miss: 16	evict: 12
+I, 400560 3
+hit: 25	miss: 16	evict: 12
+I, 400563 4
+hit: 25	miss: 16	evict: 12
+L, ff000370 8
+hit: 25	miss: 17	evict: 13
+I, 400567 3
+hit: 25	miss: 17	evict: 13
+L, ff000384 4
+hit: 26	miss: 17	evict: 13
+I, 40056a 3
+hit: 26	miss: 17	evict: 13
+I, 40056d 3
+hit: 26	miss: 17	evict: 13
+L, ff00038c 4
+hit: 27	miss: 17	evict: 13
+I, 400570 3
+hit: 27	miss: 17	evict: 13
+S, 600a80 4
+hit: 27	miss: 18	evict: 14
+I, 400573 4
+hit: 27	miss: 18	evict: 14
+M, ff000388 4
+hit: 29	miss: 18	evict: 14
+I, 400577 4
+hit: 29	miss: 18	evict: 14
+L, ff000388 4
+hit: 30	miss: 18	evict: 14
+I, 40057b 2
+hit: 30	miss: 18	evict: 14
+I, 40053c 3
+hit: 30	miss: 18	evict: 14
+L, ff000384 4
+hit: 30	miss: 19	evict: 15
+I, 40053f 2
+hit: 30	miss: 19	evict: 15
+I, 400541 4
+hit: 30	miss: 19	evict: 15
+I, 400545 3
+hit: 30	miss: 19	evict: 15
+I, 400548 4
+hit: 30	miss: 19	evict: 15
+L, ff000378 8
+hit: 31	miss: 19	evict: 15
+I, 40054c 3
+hit: 31	miss: 19	evict: 15
+L, ff000388 4
+hit: 32	miss: 19	evict: 15
+I, 40054f 2
+hit: 32	miss: 19	evict: 15
+I, 400551 3
+hit: 32	miss: 19	evict: 15
+L, 600a2c 4
+hit: 32	miss: 20	evict: 16
+I, 400554 3
+hit: 32	miss: 20	evict: 16
+S, ff00038c 4
+hit: 32	miss: 21	evict: 17
+I, 400557 3
+hit: 32	miss: 21	evict: 17
+L, ff000388 4
+hit: 33	miss: 21	evict: 17
+I, 40055a 2
+hit: 33	miss: 21	evict: 17
+I, 40055c 4
+hit: 33	miss: 21	evict: 17
+I, 400560 3
+hit: 33	miss: 21	evict: 17
+I, 400563 4
+hit: 33	miss: 21	evict: 17
+L, ff000370 8
+hit: 34	miss: 21	evict: 17
+I, 400567 3
+hit: 34	miss: 21	evict: 17
+L, ff000384 4
+hit: 35	miss: 21	evict: 17
+I, 40056a 3
+hit: 35	miss: 21	evict: 17
+I, 40056d 3
+hit: 35	miss: 21	evict: 17
+L, ff00038c 4
+hit: 36	miss: 21	evict: 17
+I, 400570 3
+hit: 36	miss: 21	evict: 17
+S, 600a90 4
+hit: 36	miss: 22	evict: 18
+I, 400573 4
+hit: 36	miss: 22	evict: 18
+M, ff000388 4
+hit: 38	miss: 22	evict: 18
+I, 400577 4
+hit: 38	miss: 22	evict: 18
+L, ff000388 4
+hit: 39	miss: 22	evict: 18
+I, 40057b 2
+hit: 39	miss: 22	evict: 18
+I, 40057d 4
+hit: 39	miss: 22	evict: 18
+M, ff000384 4
+hit: 41	miss: 22	evict: 18
+I, 400581 4
+hit: 41	miss: 22	evict: 18
+L, ff000384 4
+hit: 42	miss: 22	evict: 18
+I, 400585 2
+hit: 42	miss: 22	evict: 18
+I, 400533 7
+hit: 42	miss: 22	evict: 18
+S, ff000388 4
+hit: 43	miss: 22	evict: 18
+I, 40053a 2
+hit: 43	miss: 22	evict: 18
+I, 400577 4
+hit: 43	miss: 22	evict: 18
+L, ff000388 4
+hit: 44	miss: 22	evict: 18
+I, 40057b 2
+hit: 44	miss: 22	evict: 18
+I, 40053c 3
+hit: 44	miss: 22	evict: 18
+L, ff000384 4
+hit: 45	miss: 22	evict: 18
+I, 40053f 2
+hit: 45	miss: 22	evict: 18
+I, 400541 4
+hit: 45	miss: 22	evict: 18
+I, 400545 3
+hit: 45	miss: 22	evict: 18
+I, 400548 4
+hit: 45	miss: 22	evict: 18
+L, ff000378 8
+hit: 46	miss: 22	evict: 18
+I, 40054c 3
+hit: 46	miss: 22	evict: 18
+L, ff000388 4
+hit: 47	miss: 22	evict: 18
+I, 40054f 2
+hit: 47	miss: 22	evict: 18
+I, 400551 3
+hit: 47	miss: 22	evict: 18
+L, 600a30 4
+hit: 47	miss: 23	evict: 19
+I, 400554 3
+hit: 47	miss: 23	evict: 19
+S, ff00038c 4
+hit: 48	miss: 23	evict: 19
+I, 400557 3
+hit: 48	miss: 23	evict: 19
+L, ff000388 4
+hit: 49	miss: 23	evict: 19
+I, 40055a 2
+hit: 49	miss: 23	evict: 19
+I, 40055c 4
+hit: 49	miss: 23	evict: 19
+I, 400560 3
+hit: 49	miss: 23	evict: 19
+I, 400563 4
+hit: 49	miss: 23	evict: 19
+L, ff000370 8
+hit: 49	miss: 24	evict: 20
+I, 400567 3
+hit: 49	miss: 24	evict: 20
+L, ff000384 4
+hit: 50	miss: 24	evict: 20
+I, 40056a 3
+hit: 50	miss: 24	evict: 20
+I, 40056d 3
+hit: 50	miss: 24	evict: 20
+L, ff00038c 4
+hit: 51	miss: 24	evict: 20
+I, 400570 3
+hit: 51	miss: 24	evict: 20
+S, 600a64 4
+hit: 51	miss: 25	evict: 21
+I, 400573 4
+hit: 51	miss: 25	evict: 21
+M, ff000388 4
+hit: 53	miss: 25	evict: 21
+I, 400577 4
+hit: 53	miss: 25	evict: 21
+L, ff000388 4
+hit: 54	miss: 25	evict: 21
+I, 40057b 2
+hit: 54	miss: 25	evict: 21
+I, 40053c 3
+hit: 54	miss: 25	evict: 21
+L, ff000384 4
+hit: 54	miss: 26	evict: 22
+I, 40053f 2
+hit: 54	miss: 26	evict: 22
+I, 400541 4
+hit: 54	miss: 26	evict: 22
+I, 400545 3
+hit: 54	miss: 26	evict: 22
+I, 400548 4
+hit: 54	miss: 26	evict: 22
+L, ff000378 8
+hit: 55	miss: 26	evict: 22
+I, 40054c 3
+hit: 55	miss: 26	evict: 22
+L, ff000388 4
+hit: 56	miss: 26	evict: 22
+I, 40054f 2
+hit: 56	miss: 26	evict: 22
+I, 400551 3
+hit: 56	miss: 26	evict: 22
+L, 600a34 4
+hit: 56	miss: 27	evict: 23
+I, 400554 3
+hit: 56	miss: 27	evict: 23
+S, ff00038c 4
+hit: 57	miss: 27	evict: 23
+I, 400557 3
+hit: 57	miss: 27	evict: 23
+L, ff000388 4
+hit: 58	miss: 27	evict: 23
+I, 40055a 2
+hit: 58	miss: 27	evict: 23
+I, 40055c 4
+hit: 58	miss: 27	evict: 23
+I, 400560 3
+hit: 58	miss: 27	evict: 23
+I, 400563 4
+hit: 58	miss: 27	evict: 23
+L, ff000370 8
+hit: 58	miss: 28	evict: 24
+I, 400567 3
+hit: 58	miss: 28	evict: 24
+L, ff000384 4
+hit: 59	miss: 28	evict: 24
+I, 40056a 3
+hit: 59	miss: 28	evict: 24
+I, 40056d 3
+hit: 59	miss: 28	evict: 24
+L, ff00038c 4
+hit: 60	miss: 28	evict: 24
+I, 400570 3
+hit: 60	miss: 28	evict: 24
+S, 600a74 4
+hit: 60	miss: 29	evict: 25
+I, 400573 4
+hit: 60	miss: 29	evict: 25
+M, ff000388 4
+hit: 62	miss: 29	evict: 25
+I, 400577 4
+hit: 62	miss: 29	evict: 25
+L, ff000388 4
+hit: 63	miss: 29	evict: 25
+I, 40057b 2
+hit: 63	miss: 29	evict: 25
+I, 40053c 3
+hit: 63	miss: 29	evict: 25
+L, ff000384 4
+hit: 64	miss: 29	evict: 25
+I, 40053f 2
+hit: 64	miss: 29	evict: 25
+I, 400541 4
+hit: 64	miss: 29	evict: 25
+I, 400545 3
+hit: 64	miss: 29	evict: 25
+I, 400548 4
+hit: 64	miss: 29	evict: 25
+L, ff000378 8
+hit: 65	miss: 29	evict: 25
+I, 40054c 3
+hit: 65	miss: 29	evict: 25
+L, ff000388 4
+hit: 66	miss: 29	evict: 25
+I, 40054f 2
+hit: 66	miss: 29	evict: 25
+I, 400551 3
+hit: 66	miss: 29	evict: 25
+L, 600a38 4
+hit: 66	miss: 30	evict: 26
+I, 400554 3
+hit: 66	miss: 30	evict: 26
+S, ff00038c 4
+hit: 67	miss: 30	evict: 26
+I, 400557 3
+hit: 67	miss: 30	evict: 26
+L, ff000388 4
+hit: 68	miss: 30	evict: 26
+I, 40055a 2
+hit: 68	miss: 30	evict: 26
+I, 40055c 4
+hit: 68	miss: 30	evict: 26
+I, 400560 3
+hit: 68	miss: 30	evict: 26
+I, 400563 4
+hit: 68	miss: 30	evict: 26
+L, ff000370 8
+hit: 68	miss: 31	evict: 27
+I, 400567 3
+hit: 68	miss: 31	evict: 27
+L, ff000384 4
+hit: 69	miss: 31	evict: 27
+I, 40056a 3
+hit: 69	miss: 31	evict: 27
+I, 40056d 3
+hit: 69	miss: 31	evict: 27
+L, ff00038c 4
+hit: 70	miss: 31	evict: 27
+I, 400570 3
+hit: 70	miss: 31	evict: 27
+S, 600a84 4
+hit: 70	miss: 32	evict: 28
+I, 400573 4
+hit: 70	miss: 32	evict: 28
+M, ff000388 4
+hit: 72	miss: 32	evict: 28
+I, 400577 4
+hit: 72	miss: 32	evict: 28
+L, ff000388 4
+hit: 73	miss: 32	evict: 28
+I, 40057b 2
+hit: 73	miss: 32	evict: 28
+I, 40053c 3
+hit: 73	miss: 32	evict: 28
+L, ff000384 4
+hit: 73	miss: 33	evict: 29
+I, 40053f 2
+hit: 73	miss: 33	evict: 29
+I, 400541 4
+hit: 73	miss: 33	evict: 29
+I, 400545 3
+hit: 73	miss: 33	evict: 29
+I, 400548 4
+hit: 73	miss: 33	evict: 29
+L, ff000378 8
+hit: 73	miss: 34	evict: 30
+I, 40054c 3
+hit: 73	miss: 34	evict: 30
+L, ff000388 4
+hit: 74	miss: 34	evict: 30
+I, 40054f 2
+hit: 74	miss: 34	evict: 30
+I, 400551 3
+hit: 74	miss: 34	evict: 30
+L, 600a3c 4
+hit: 74	miss: 35	evict: 31
+I, 400554 3
+hit: 74	miss: 35	evict: 31
+S, ff00038c 4
+hit: 75	miss: 35	evict: 31
+I, 400557 3
+hit: 75	miss: 35	evict: 31
+L, ff000388 4
+hit: 76	miss: 35	evict: 31
+I, 40055a 2
+hit: 76	miss: 35	evict: 31
+I, 40055c 4
+hit: 76	miss: 35	evict: 31
+I, 400560 3
+hit: 76	miss: 35	evict: 31
+I, 400563 4
+hit: 76	miss: 35	evict: 31
+L, ff000370 8
+hit: 77	miss: 35	evict: 31
+I, 400567 3
+hit: 77	miss: 35	evict: 31
+L, ff000384 4
+hit: 78	miss: 35	evict: 31
+I, 40056a 3
+hit: 78	miss: 35	evict: 31
+I, 40056d 3
+hit: 78	miss: 35	evict: 31
+L, ff00038c 4
+hit: 79	miss: 35	evict: 31
+I, 400570 3
+hit: 79	miss: 35	evict: 31
+S, 600a94 4
+hit: 79	miss: 36	evict: 32
+I, 400573 4
+hit: 79	miss: 36	evict: 32
+M, ff000388 4
+hit: 81	miss: 36	evict: 32
+I, 400577 4
+hit: 81	miss: 36	evict: 32
+L, ff000388 4
+hit: 82	miss: 36	evict: 32
+I, 40057b 2
+hit: 82	miss: 36	evict: 32
+I, 40057d 4
+hit: 82	miss: 36	evict: 32
+M, ff000384 4
+hit: 84	miss: 36	evict: 32
+I, 400581 4
+hit: 84	miss: 36	evict: 32
+L, ff000384 4
+hit: 85	miss: 36	evict: 32
+I, 400585 2
+hit: 85	miss: 36	evict: 32
+I, 400533 7
+hit: 85	miss: 36	evict: 32
+S, ff000388 4
+hit: 86	miss: 36	evict: 32
+I, 40053a 2
+hit: 86	miss: 36	evict: 32
+I, 400577 4
+hit: 86	miss: 36	evict: 32
+L, ff000388 4
+hit: 87	miss: 36	evict: 32
+I, 40057b 2
+hit: 87	miss: 36	evict: 32
+I, 40053c 3
+hit: 87	miss: 36	evict: 32
+L, ff000384 4
+hit: 88	miss: 36	evict: 32
+I, 40053f 2
+hit: 88	miss: 36	evict: 32
+I, 400541 4
+hit: 88	miss: 36	evict: 32
+I, 400545 3
+hit: 88	miss: 36	evict: 32
+I, 400548 4
+hit: 88	miss: 36	evict: 32
+L, ff000378 8
+hit: 88	miss: 37	evict: 33
+I, 40054c 3
+hit: 88	miss: 37	evict: 33
+L, ff000388 4
+hit: 89	miss: 37	evict: 33
+I, 40054f 2
+hit: 89	miss: 37	evict: 33
+I, 400551 3
+hit: 89	miss: 37	evict: 33
+L, 600a40 4
+hit: 89	miss: 38	evict: 34
+I, 400554 3
+hit: 89	miss: 38	evict: 34
+S, ff00038c 4
+hit: 90	miss: 38	evict: 34
+I, 400557 3
+hit: 90	miss: 38	evict: 34
+L, ff000388 4
+hit: 91	miss: 38	evict: 34
+I, 40055a 2
+hit: 91	miss: 38	evict: 34
+I, 40055c 4
+hit: 91	miss: 38	evict: 34
+I, 400560 3
+hit: 91	miss: 38	evict: 34
+I, 400563 4
+hit: 91	miss: 38	evict: 34
+L, ff000370 8
+hit: 91	miss: 39	evict: 35
+I, 400567 3
+hit: 91	miss: 39	evict: 35
+L, ff000384 4
+hit: 91	miss: 40	evict: 36
+I, 40056a 3
+hit: 91	miss: 40	evict: 36
+I, 40056d 3
+hit: 91	miss: 40	evict: 36
+L, ff00038c 4
+hit: 92	miss: 40	evict: 36
+I, 400570 3
+hit: 92	miss: 40	evict: 36
+S, 600a68 4
+hit: 92	miss: 41	evict: 37
+I, 400573 4
+hit: 92	miss: 41	evict: 37
+M, ff000388 4
+hit: 93	miss: 42	evict: 38
+I, 400577 4
+hit: 93	miss: 42	evict: 38
+L, ff000388 4
+hit: 94	miss: 42	evict: 38
+I, 40057b 2
+hit: 94	miss: 42	evict: 38
+I, 40053c 3
+hit: 94	miss: 42	evict: 38
+L, ff000384 4
+hit: 95	miss: 42	evict: 38
+I, 40053f 2
+hit: 95	miss: 42	evict: 38
+I, 400541 4
+hit: 95	miss: 42	evict: 38
+I, 400545 3
+hit: 95	miss: 42	evict: 38
+I, 400548 4
+hit: 95	miss: 42	evict: 38
+L, ff000378 8
+hit: 96	miss: 42	evict: 38
+I, 40054c 3
+hit: 96	miss: 42	evict: 38
+L, ff000388 4
+hit: 97	miss: 42	evict: 38
+I, 40054f 2
+hit: 97	miss: 42	evict: 38
+I, 400551 3
+hit: 97	miss: 42	evict: 38
+L, 600a44 4
+hit: 97	miss: 43	evict: 39
+I, 400554 3
+hit: 97	miss: 43	evict: 39
+S, ff00038c 4
+hit: 98	miss: 43	evict: 39
+I, 400557 3
+hit: 98	miss: 43	evict: 39
+L, ff000388 4
+hit: 99	miss: 43	evict: 39
+I, 40055a 2
+hit: 99	miss: 43	evict: 39
+I, 40055c 4
+hit: 99	miss: 43	evict: 39
+I, 400560 3
+hit: 99	miss: 43	evict: 39
+I, 400563 4
+hit: 99	miss: 43	evict: 39
+L, ff000370 8
+hit: 100	miss: 43	evict: 39
+I, 400567 3
+hit: 100	miss: 43	evict: 39
+L, ff000384 4
+hit: 100	miss: 44	evict: 40
+I, 40056a 3
+hit: 100	miss: 44	evict: 40
+I, 40056d 3
+hit: 100	miss: 44	evict: 40
+L, ff00038c 4
+hit: 101	miss: 44	evict: 40
+I, 400570 3
+hit: 101	miss: 44	evict: 40
+S, 600a78 4
+hit: 101	miss: 45	evict: 41
+I, 400573 4
+hit: 101	miss: 45	evict: 41
+M, ff000388 4
+hit: 103	miss: 45	evict: 41
+I, 400577 4
+hit: 103	miss: 45	evict: 41
+L, ff000388 4
+hit: 104	miss: 45	evict: 41
+I, 40057b 2
+hit: 104	miss: 45	evict: 41
+I, 40053c 3
+hit: 104	miss: 45	evict: 41
+L, ff000384 4
+hit: 105	miss: 45	evict: 41
+I, 40053f 2
+hit: 105	miss: 45	evict: 41
+I, 400541 4
+hit: 105	miss: 45	evict: 41
+I, 400545 3
+hit: 105	miss: 45	evict: 41
+I, 400548 4
+hit: 105	miss: 45	evict: 41
+L, ff000378 8
+hit: 105	miss: 46	evict: 42
+I, 40054c 3
+hit: 105	miss: 46	evict: 42
+L, ff000388 4
+hit: 106	miss: 46	evict: 42
+I, 40054f 2
+hit: 106	miss: 46	evict: 42
+I, 400551 3
+hit: 106	miss: 46	evict: 42
+L, 600a48 4
+hit: 106	miss: 47	evict: 43
+I, 400554 3
+hit: 106	miss: 47	evict: 43
+S, ff00038c 4
+hit: 106	miss: 48	evict: 44
+I, 400557 3
+hit: 106	miss: 48	evict: 44
+L, ff000388 4
+hit: 107	miss: 48	evict: 44
+I, 40055a 2
+hit: 107	miss: 48	evict: 44
+I, 40055c 4
+hit: 107	miss: 48	evict: 44
+I, 400560 3
+hit: 107	miss: 48	evict: 44
+I, 400563 4
+hit: 107	miss: 48	evict: 44
+L, ff000370 8
+hit: 108	miss: 48	evict: 44
+I, 400567 3
+hit: 108	miss: 48	evict: 44
+L, ff000384 4
+hit: 109	miss: 48	evict: 44
+I, 40056a 3
+hit: 109	miss: 48	evict: 44
+I, 40056d 3
+hit: 109	miss: 48	evict: 44
+L, ff00038c 4
+hit: 110	miss: 48	evict: 44
+I, 400570 3
+hit: 110	miss: 48	evict: 44
+S, 600a88 4
+hit: 110	miss: 49	evict: 45
+I, 400573 4
+hit: 110	miss: 49	evict: 45
+M, ff000388 4
+hit: 111	miss: 50	evict: 46
+I, 400577 4
+hit: 111	miss: 50	evict: 46
+L, ff000388 4
+hit: 112	miss: 50	evict: 46
+I, 40057b 2
+hit: 112	miss: 50	evict: 46
+I, 40053c 3
+hit: 112	miss: 50	evict: 46
+L, ff000384 4
+hit: 113	miss: 50	evict: 46
+I, 40053f 2
+hit: 113	miss: 50	evict: 46
+I, 400541 4
+hit: 113	miss: 50	evict: 46
+I, 400545 3
+hit: 113	miss: 50	evict: 46
+I, 400548 4
+hit: 113	miss: 50	evict: 46
+L, ff000378 8
+hit: 114	miss: 50	evict: 46
+I, 40054c 3
+hit: 114	miss: 50	evict: 46
+L, ff000388 4
+hit: 115	miss: 50	evict: 46
+I, 40054f 2
+hit: 115	miss: 50	evict: 46
+I, 400551 3
+hit: 115	miss: 50	evict: 46
+L, 600a4c 4
+hit: 115	miss: 51	evict: 47
+I, 400554 3
+hit: 115	miss: 51	evict: 47
+S, ff00038c 4
+hit: 115	miss: 52	evict: 48
+I, 400557 3
+hit: 115	miss: 52	evict: 48
+L, ff000388 4
+hit: 116	miss: 52	evict: 48
+I, 40055a 2
+hit: 116	miss: 52	evict: 48
+I, 40055c 4
+hit: 116	miss: 52	evict: 48
+I, 400560 3
+hit: 116	miss: 52	evict: 48
+I, 400563 4
+hit: 116	miss: 52	evict: 48
+L, ff000370 8
+hit: 117	miss: 52	evict: 48
+I, 400567 3
+hit: 117	miss: 52	evict: 48
+L, ff000384 4
+hit: 118	miss: 52	evict: 48
+I, 40056a 3
+hit: 118	miss: 52	evict: 48
+I, 40056d 3
+hit: 118	miss: 52	evict: 48
+L, ff00038c 4
+hit: 119	miss: 52	evict: 48
+I, 400570 3
+hit: 119	miss: 52	evict: 48
+S, 600a98 4
+hit: 119	miss: 53	evict: 49
+I, 400573 4
+hit: 119	miss: 53	evict: 49
+M, ff000388 4
+hit: 121	miss: 53	evict: 49
+I, 400577 4
+hit: 121	miss: 53	evict: 49
+L, ff000388 4
+hit: 122	miss: 53	evict: 49
+I, 40057b 2
+hit: 122	miss: 53	evict: 49
+I, 40057d 4
+hit: 122	miss: 53	evict: 49
+M, ff000384 4
+hit: 124	miss: 53	evict: 49
+I, 400581 4
+hit: 124	miss: 53	evict: 49
+L, ff000384 4
+hit: 125	miss: 53	evict: 49
+I, 400585 2
+hit: 125	miss: 53	evict: 49
+I, 400533 7
+hit: 125	miss: 53	evict: 49
+S, ff000388 4
+hit: 126	miss: 53	evict: 49
+I, 40053a 2
+hit: 126	miss: 53	evict: 49
+I, 400577 4
+hit: 126	miss: 53	evict: 49
+L, ff000388 4
+hit: 127	miss: 53	evict: 49
+I, 40057b 2
+hit: 127	miss: 53	evict: 49
+I, 40053c 3
+hit: 127	miss: 53	evict: 49
+L, ff000384 4
+hit: 128	miss: 53	evict: 49
+I, 40053f 2
+hit: 128	miss: 53	evict: 49
+I, 400541 4
+hit: 128	miss: 53	evict: 49
+I, 400545 3
+hit: 128	miss: 53	evict: 49
+I, 400548 4
+hit: 128	miss: 53	evict: 49
+L, ff000378 8
+hit: 128	miss: 54	evict: 50
+I, 40054c 3
+hit: 128	miss: 54	evict: 50
+L, ff000388 4
+hit: 129	miss: 54	evict: 50
+I, 40054f 2
+hit: 129	miss: 54	evict: 50
+I, 400551 3
+hit: 129	miss: 54	evict: 50
+L, 600a50 4
+hit: 129	miss: 55	evict: 51
+I, 400554 3
+hit: 129	miss: 55	evict: 51
+S, ff00038c 4
+hit: 130	miss: 55	evict: 51
+I, 400557 3
+hit: 130	miss: 55	evict: 51
+L, ff000388 4
+hit: 131	miss: 55	evict: 51
+I, 40055a 2
+hit: 131	miss: 55	evict: 51
+I, 40055c 4
+hit: 131	miss: 55	evict: 51
+I, 400560 3
+hit: 131	miss: 55	evict: 51
+I, 400563 4
+hit: 131	miss: 55	evict: 51
+L, ff000370 8
+hit: 131	miss: 56	evict: 52
+I, 400567 3
+hit: 131	miss: 56	evict: 52
+L, ff000384 4
+hit: 132	miss: 56	evict: 52
+I, 40056a 3
+hit: 132	miss: 56	evict: 52
+I, 40056d 3
+hit: 132	miss: 56	evict: 52
+L, ff00038c 4
+hit: 133	miss: 56	evict: 52
+I, 400570 3
+hit: 133	miss: 56	evict: 52
+S, 600a6c 4
+hit: 133	miss: 57	evict: 53
+I, 400573 4
+hit: 133	miss: 57	evict: 53
+M, ff000388 4
+hit: 134	miss: 58	evict: 54
+I, 400577 4
+hit: 134	miss: 58	evict: 54
+L, ff000388 4
+hit: 135	miss: 58	evict: 54
+I, 40057b 2
+hit: 135	miss: 58	evict: 54
+I, 40053c 3
+hit: 135	miss: 58	evict: 54
+L, ff000384 4
+hit: 136	miss: 58	evict: 54
+I, 40053f 2
+hit: 136	miss: 58	evict: 54
+I, 400541 4
+hit: 136	miss: 58	evict: 54
+I, 400545 3
+hit: 136	miss: 58	evict: 54
+I, 400548 4
+hit: 136	miss: 58	evict: 54
+L, ff000378 8
+hit: 137	miss: 58	evict: 54
+I, 40054c 3
+hit: 137	miss: 58	evict: 54
+L, ff000388 4
+hit: 138	miss: 58	evict: 54
+I, 40054f 2
+hit: 138	miss: 58	evict: 54
+I, 400551 3
+hit: 138	miss: 58	evict: 54
+L, 600a54 4
+hit: 138	miss: 59	evict: 55
+I, 400554 3
+hit: 138	miss: 59	evict: 55
+S, ff00038c 4
+hit: 139	miss: 59	evict: 55
+I, 400557 3
+hit: 139	miss: 59	evict: 55
+L, ff000388 4
+hit: 140	miss: 59	evict: 55
+I, 40055a 2
+hit: 140	miss: 59	evict: 55
+I, 40055c 4
+hit: 140	miss: 59	evict: 55
+I, 400560 3
+hit: 140	miss: 59	evict: 55
+I, 400563 4
+hit: 140	miss: 59	evict: 55
+L, ff000370 8
+hit: 140	miss: 60	evict: 56
+I, 400567 3
+hit: 140	miss: 60	evict: 56
+L, ff000384 4
+hit: 141	miss: 60	evict: 56
+I, 40056a 3
+hit: 141	miss: 60	evict: 56
+I, 40056d 3
+hit: 141	miss: 60	evict: 56
+L, ff00038c 4
+hit: 142	miss: 60	evict: 56
+I, 400570 3
+hit: 142	miss: 60	evict: 56
+S, 600a7c 4
+hit: 142	miss: 61	evict: 57
+I, 400573 4
+hit: 142	miss: 61	evict: 57
+M, ff000388 4
+hit: 144	miss: 61	evict: 57
+I, 400577 4
+hit: 144	miss: 61	evict: 57
+L, ff000388 4
+hit: 145	miss: 61	evict: 57
+I, 40057b 2
+hit: 145	miss: 61	evict: 57
+I, 40053c 3
+hit: 145	miss: 61	evict: 57
+L, ff000384 4
+hit: 146	miss: 61	evict: 57
+I, 40053f 2
+hit: 146	miss: 61	evict: 57
+I, 400541 4
+hit: 146	miss: 61	evict: 57
+I, 400545 3
+hit: 146	miss: 61	evict: 57
+I, 400548 4
+hit: 146	miss: 61	evict: 57
+L, ff000378 8
+hit: 146	miss: 62	evict: 58
+I, 40054c 3
+hit: 146	miss: 62	evict: 58
+L, ff000388 4
+hit: 147	miss: 62	evict: 58
+I, 40054f 2
+hit: 147	miss: 62	evict: 58
+I, 400551 3
+hit: 147	miss: 62	evict: 58
+L, 600a58 4
+hit: 147	miss: 63	evict: 59
+I, 400554 3
+hit: 147	miss: 63	evict: 59
+S, ff00038c 4
+hit: 148	miss: 63	evict: 59
+I, 400557 3
+hit: 148	miss: 63	evict: 59
+L, ff000388 4
+hit: 149	miss: 63	evict: 59
+I, 40055a 2
+hit: 149	miss: 63	evict: 59
+I, 40055c 4
+hit: 149	miss: 63	evict: 59
+I, 400560 3
+hit: 149	miss: 63	evict: 59
+I, 400563 4
+hit: 149	miss: 63	evict: 59
+L, ff000370 8
+hit: 150	miss: 63	evict: 59
+I, 400567 3
+hit: 150	miss: 63	evict: 59
+L, ff000384 4
+hit: 151	miss: 63	evict: 59
+I, 40056a 3
+hit: 151	miss: 63	evict: 59
+I, 40056d 3
+hit: 151	miss: 63	evict: 59
+L, ff00038c 4
+hit: 152	miss: 63	evict: 59
+I, 400570 3
+hit: 152	miss: 63	evict: 59
+S, 600a8c 4
+hit: 152	miss: 64	evict: 60
+I, 400573 4
+hit: 152	miss: 64	evict: 60
+M, ff000388 4
+hit: 153	miss: 65	evict: 61
+I, 400577 4
+hit: 153	miss: 65	evict: 61
+L, ff000388 4
+hit: 154	miss: 65	evict: 61
+I, 40057b 2
+hit: 154	miss: 65	evict: 61
+I, 40053c 3
+hit: 154	miss: 65	evict: 61
+L, ff000384 4
+hit: 155	miss: 65	evict: 61
+I, 40053f 2
+hit: 155	miss: 65	evict: 61
+I, 400541 4
+hit: 155	miss: 65	evict: 61
+I, 400545 3
+hit: 155	miss: 65	evict: 61
+I, 400548 4
+hit: 155	miss: 65	evict: 61
+L, ff000378 8
+hit: 155	miss: 66	evict: 62
+I, 40054c 3
+hit: 155	miss: 66	evict: 62
+L, ff000388 4
+hit: 156	miss: 66	evict: 62
+I, 40054f 2
+hit: 156	miss: 66	evict: 62
+I, 400551 3
+hit: 156	miss: 66	evict: 62
+L, 600a5c 4
+hit: 156	miss: 67	evict: 63
+I, 400554 3
+hit: 156	miss: 67	evict: 63
+S, ff00038c 4
+hit: 157	miss: 67	evict: 63
+I, 400557 3
+hit: 157	miss: 67	evict: 63
+L, ff000388 4
+hit: 158	miss: 67	evict: 63
+I, 40055a 2
+hit: 158	miss: 67	evict: 63
+I, 40055c 4
+hit: 158	miss: 67	evict: 63
+I, 400560 3
+hit: 158	miss: 67	evict: 63
+I, 400563 4
+hit: 158	miss: 67	evict: 63
+L, ff000370 8
+hit: 159	miss: 67	evict: 63
+I, 400567 3
+hit: 159	miss: 67	evict: 63
+L, ff000384 4
+hit: 160	miss: 67	evict: 63
+I, 40056a 3
+hit: 160	miss: 67	evict: 63
+I, 40056d 3
+hit: 160	miss: 67	evict: 63
+L, ff00038c 4
+hit: 161	miss: 67	evict: 63
+I, 400570 3
+hit: 161	miss: 67	evict: 63
+S, 600a9c 4
+hit: 161	miss: 68	evict: 64
+I, 400573 4
+hit: 161	miss: 68	evict: 64
+M, ff000388 4
+hit: 163	miss: 68	evict: 64
+I, 400577 4
+hit: 163	miss: 68	evict: 64
+L, ff000388 4
+hit: 164	miss: 68	evict: 64
+I, 40057b 2
+hit: 164	miss: 68	evict: 64
+I, 40057d 4
+hit: 164	miss: 68	evict: 64
+M, ff000384 4
+hit: 166	miss: 68	evict: 64
+I, 400581 4
+hit: 166	miss: 68	evict: 64
+L, ff000384 4
+hit: 167	miss: 68	evict: 64
+I, 400585 2
+hit: 167	miss: 68	evict: 64
+I, 400587 1
+hit: 167	miss: 68	evict: 64
+L, ff000390 8
+hit: 167	miss: 69	evict: 65
+I, 400588 1
+hit: 167	miss: 69	evict: 65
+L, ff000398 8
+hit: 167	miss: 70	evict: 66
+I, 4005c5 7
+hit: 167	miss: 70	evict: 66
+L, 600aa0 1
+hit: 167	miss: 71	evict: 67
+hits:167 misses:71 evictions:67

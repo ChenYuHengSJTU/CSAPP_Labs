@@ -1,0 +1,1197 @@
+traces/trans.trace
+s:2
+E:1
+b:3
+op:S	addr:600aa0	sz:1
+hit: 0	miss: 1evict: 0
+op:I	addr:4005b6	sz:5
+hit: 0	miss: 1evict: 0
+op:I	addr:4005bb	sz:5
+hit: 0	miss: 1evict: 0
+op:I	addr:4005c0	sz:5
+hit: 0	miss: 1evict: 0
+op:S	addr:ff000398	sz:8
+hit: 0	miss: 2evict: 0
+op:I	addr:40051e	sz:1
+hit: 0	miss: 2evict: 0
+op:S	addr:ff000390	sz:8
+hit: 0	miss: 3evict: 0
+op:I	addr:40051f	sz:3
+hit: 0	miss: 3evict: 0
+op:I	addr:400522	sz:4
+hit: 0	miss: 3evict: 0
+op:S	addr:ff000378	sz:8
+hit: 0	miss: 4evict: 1
+op:I	addr:400526	sz:4
+hit: 0	miss: 4evict: 1
+op:S	addr:ff000370	sz:8
+hit: 0	miss: 5evict: 2
+op:I	addr:40052a	sz:7
+hit: 0	miss: 5evict: 2
+op:S	addr:ff000384	sz:4
+hit: 0	miss: 6evict: 3
+op:I	addr:400531	sz:2
+hit: 0	miss: 6evict: 3
+op:I	addr:400581	sz:4
+hit: 0	miss: 6evict: 3
+op:L	addr:ff000384	sz:4
+hit: 1	miss: 6evict: 3
+op:I	addr:400585	sz:2
+hit: 1	miss: 6evict: 3
+op:I	addr:400533	sz:7
+hit: 1	miss: 6evict: 3
+op:S	addr:ff000388	sz:4
+hit: 1	miss: 7evict: 3
+op:I	addr:40053a	sz:2
+hit: 1	miss: 7evict: 3
+op:I	addr:400577	sz:4
+hit: 1	miss: 7evict: 3
+op:L	addr:ff000388	sz:4
+hit: 2	miss: 7evict: 3
+op:I	addr:40057b	sz:2
+hit: 2	miss: 7evict: 3
+op:I	addr:40053c	sz:3
+hit: 2	miss: 7evict: 3
+op:L	addr:ff000384	sz:4
+hit: 3	miss: 7evict: 3
+op:I	addr:40053f	sz:2
+hit: 3	miss: 7evict: 3
+op:I	addr:400541	sz:4
+hit: 3	miss: 7evict: 3
+op:I	addr:400545	sz:3
+hit: 3	miss: 7evict: 3
+op:I	addr:400548	sz:4
+hit: 3	miss: 7evict: 3
+op:L	addr:ff000378	sz:8
+hit: 4	miss: 7evict: 3
+op:I	addr:40054c	sz:3
+hit: 4	miss: 7evict: 3
+op:L	addr:ff000388	sz:4
+hit: 5	miss: 7evict: 3
+op:I	addr:40054f	sz:2
+hit: 5	miss: 7evict: 3
+op:I	addr:400551	sz:3
+hit: 5	miss: 7evict: 3
+op:L	addr:600a20	sz:4
+hit: 5	miss: 8evict: 4
+op:I	addr:400554	sz:3
+hit: 5	miss: 8evict: 4
+op:S	addr:ff00038c	sz:4
+hit: 6	miss: 8evict: 4
+op:I	addr:400557	sz:3
+hit: 6	miss: 8evict: 4
+op:L	addr:ff000388	sz:4
+hit: 7	miss: 8evict: 4
+op:I	addr:40055a	sz:2
+hit: 7	miss: 8evict: 4
+op:I	addr:40055c	sz:4
+hit: 7	miss: 8evict: 4
+op:I	addr:400560	sz:3
+hit: 7	miss: 8evict: 4
+op:I	addr:400563	sz:4
+hit: 7	miss: 8evict: 4
+op:L	addr:ff000370	sz:8
+hit: 8	miss: 8evict: 4
+op:I	addr:400567	sz:3
+hit: 8	miss: 8evict: 4
+op:L	addr:ff000384	sz:4
+hit: 8	miss: 9evict: 5
+op:I	addr:40056a	sz:3
+hit: 8	miss: 9evict: 5
+op:I	addr:40056d	sz:3
+hit: 8	miss: 9evict: 5
+op:L	addr:ff00038c	sz:4
+hit: 9	miss: 9evict: 5
+op:I	addr:400570	sz:3
+hit: 9	miss: 9evict: 5
+op:S	addr:600a60	sz:4
+hit: 9	miss: 10evict: 6
+op:I	addr:400573	sz:4
+hit: 9	miss: 10evict: 6
+op:M	addr:ff000388	sz:4
+hit: 11	miss: 10evict: 6
+op:I	addr:400577	sz:4
+hit: 11	miss: 10evict: 6
+op:L	addr:ff000388	sz:4
+hit: 12	miss: 10evict: 6
+op:I	addr:40057b	sz:2
+hit: 12	miss: 10evict: 6
+op:I	addr:40053c	sz:3
+hit: 12	miss: 10evict: 6
+op:L	addr:ff000384	sz:4
+hit: 12	miss: 11evict: 7
+op:I	addr:40053f	sz:2
+hit: 12	miss: 11evict: 7
+op:I	addr:400541	sz:4
+hit: 12	miss: 11evict: 7
+op:I	addr:400545	sz:3
+hit: 12	miss: 11evict: 7
+op:I	addr:400548	sz:4
+hit: 12	miss: 11evict: 7
+op:L	addr:ff000378	sz:8
+hit: 13	miss: 11evict: 7
+op:I	addr:40054c	sz:3
+hit: 13	miss: 11evict: 7
+op:L	addr:ff000388	sz:4
+hit: 14	miss: 11evict: 7
+op:I	addr:40054f	sz:2
+hit: 14	miss: 11evict: 7
+op:I	addr:400551	sz:3
+hit: 14	miss: 11evict: 7
+op:L	addr:600a24	sz:4
+hit: 14	miss: 12evict: 8
+op:I	addr:400554	sz:3
+hit: 14	miss: 12evict: 8
+op:S	addr:ff00038c	sz:4
+hit: 15	miss: 12evict: 8
+op:I	addr:400557	sz:3
+hit: 15	miss: 12evict: 8
+op:L	addr:ff000388	sz:4
+hit: 16	miss: 12evict: 8
+op:I	addr:40055a	sz:2
+hit: 16	miss: 12evict: 8
+op:I	addr:40055c	sz:4
+hit: 16	miss: 12evict: 8
+op:I	addr:400560	sz:3
+hit: 16	miss: 12evict: 8
+op:I	addr:400563	sz:4
+hit: 16	miss: 12evict: 8
+op:L	addr:ff000370	sz:8
+hit: 17	miss: 12evict: 8
+op:I	addr:400567	sz:3
+hit: 17	miss: 12evict: 8
+op:L	addr:ff000384	sz:4
+hit: 17	miss: 13evict: 9
+op:I	addr:40056a	sz:3
+hit: 17	miss: 13evict: 9
+op:I	addr:40056d	sz:3
+hit: 17	miss: 13evict: 9
+op:L	addr:ff00038c	sz:4
+hit: 18	miss: 13evict: 9
+op:I	addr:400570	sz:3
+hit: 18	miss: 13evict: 9
+op:S	addr:600a70	sz:4
+hit: 18	miss: 14evict: 10
+op:I	addr:400573	sz:4
+hit: 18	miss: 14evict: 10
+op:M	addr:ff000388	sz:4
+hit: 20	miss: 14evict: 10
+op:I	addr:400577	sz:4
+hit: 20	miss: 14evict: 10
+op:L	addr:ff000388	sz:4
+hit: 21	miss: 14evict: 10
+op:I	addr:40057b	sz:2
+hit: 21	miss: 14evict: 10
+op:I	addr:40053c	sz:3
+hit: 21	miss: 14evict: 10
+op:L	addr:ff000384	sz:4
+hit: 22	miss: 14evict: 10
+op:I	addr:40053f	sz:2
+hit: 22	miss: 14evict: 10
+op:I	addr:400541	sz:4
+hit: 22	miss: 14evict: 10
+op:I	addr:400545	sz:3
+hit: 22	miss: 14evict: 10
+op:I	addr:400548	sz:4
+hit: 22	miss: 14evict: 10
+op:L	addr:ff000378	sz:8
+hit: 23	miss: 14evict: 10
+op:I	addr:40054c	sz:3
+hit: 23	miss: 14evict: 10
+op:L	addr:ff000388	sz:4
+hit: 24	miss: 14evict: 10
+op:I	addr:40054f	sz:2
+hit: 24	miss: 14evict: 10
+op:I	addr:400551	sz:3
+hit: 24	miss: 14evict: 10
+op:L	addr:600a28	sz:4
+hit: 24	miss: 15evict: 11
+op:I	addr:400554	sz:3
+hit: 24	miss: 15evict: 11
+op:S	addr:ff00038c	sz:4
+hit: 24	miss: 16evict: 12
+op:I	addr:400557	sz:3
+hit: 24	miss: 16evict: 12
+op:L	addr:ff000388	sz:4
+hit: 25	miss: 16evict: 12
+op:I	addr:40055a	sz:2
+hit: 25	miss: 16evict: 12
+op:I	addr:40055c	sz:4
+hit: 25	miss: 16evict: 12
+op:I	addr:400560	sz:3
+hit: 25	miss: 16evict: 12
+op:I	addr:400563	sz:4
+hit: 25	miss: 16evict: 12
+op:L	addr:ff000370	sz:8
+hit: 25	miss: 17evict: 13
+op:I	addr:400567	sz:3
+hit: 25	miss: 17evict: 13
+op:L	addr:ff000384	sz:4
+hit: 26	miss: 17evict: 13
+op:I	addr:40056a	sz:3
+hit: 26	miss: 17evict: 13
+op:I	addr:40056d	sz:3
+hit: 26	miss: 17evict: 13
+op:L	addr:ff00038c	sz:4
+hit: 27	miss: 17evict: 13
+op:I	addr:400570	sz:3
+hit: 27	miss: 17evict: 13
+op:S	addr:600a80	sz:4
+hit: 27	miss: 18evict: 14
+op:I	addr:400573	sz:4
+hit: 27	miss: 18evict: 14
+op:M	addr:ff000388	sz:4
+hit: 29	miss: 18evict: 14
+op:I	addr:400577	sz:4
+hit: 29	miss: 18evict: 14
+op:L	addr:ff000388	sz:4
+hit: 30	miss: 18evict: 14
+op:I	addr:40057b	sz:2
+hit: 30	miss: 18evict: 14
+op:I	addr:40053c	sz:3
+hit: 30	miss: 18evict: 14
+op:L	addr:ff000384	sz:4
+hit: 30	miss: 19evict: 15
+op:I	addr:40053f	sz:2
+hit: 30	miss: 19evict: 15
+op:I	addr:400541	sz:4
+hit: 30	miss: 19evict: 15
+op:I	addr:400545	sz:3
+hit: 30	miss: 19evict: 15
+op:I	addr:400548	sz:4
+hit: 30	miss: 19evict: 15
+op:L	addr:ff000378	sz:8
+hit: 31	miss: 19evict: 15
+op:I	addr:40054c	sz:3
+hit: 31	miss: 19evict: 15
+op:L	addr:ff000388	sz:4
+hit: 32	miss: 19evict: 15
+op:I	addr:40054f	sz:2
+hit: 32	miss: 19evict: 15
+op:I	addr:400551	sz:3
+hit: 32	miss: 19evict: 15
+op:L	addr:600a2c	sz:4
+hit: 32	miss: 20evict: 16
+op:I	addr:400554	sz:3
+hit: 32	miss: 20evict: 16
+op:S	addr:ff00038c	sz:4
+hit: 32	miss: 21evict: 17
+op:I	addr:400557	sz:3
+hit: 32	miss: 21evict: 17
+op:L	addr:ff000388	sz:4
+hit: 33	miss: 21evict: 17
+op:I	addr:40055a	sz:2
+hit: 33	miss: 21evict: 17
+op:I	addr:40055c	sz:4
+hit: 33	miss: 21evict: 17
+op:I	addr:400560	sz:3
+hit: 33	miss: 21evict: 17
+op:I	addr:400563	sz:4
+hit: 33	miss: 21evict: 17
+op:L	addr:ff000370	sz:8
+hit: 34	miss: 21evict: 17
+op:I	addr:400567	sz:3
+hit: 34	miss: 21evict: 17
+op:L	addr:ff000384	sz:4
+hit: 35	miss: 21evict: 17
+op:I	addr:40056a	sz:3
+hit: 35	miss: 21evict: 17
+op:I	addr:40056d	sz:3
+hit: 35	miss: 21evict: 17
+op:L	addr:ff00038c	sz:4
+hit: 36	miss: 21evict: 17
+op:I	addr:400570	sz:3
+hit: 36	miss: 21evict: 17
+op:S	addr:600a90	sz:4
+hit: 36	miss: 22evict: 18
+op:I	addr:400573	sz:4
+hit: 36	miss: 22evict: 18
+op:M	addr:ff000388	sz:4
+hit: 38	miss: 22evict: 18
+op:I	addr:400577	sz:4
+hit: 38	miss: 22evict: 18
+op:L	addr:ff000388	sz:4
+hit: 39	miss: 22evict: 18
+op:I	addr:40057b	sz:2
+hit: 39	miss: 22evict: 18
+op:I	addr:40057d	sz:4
+hit: 39	miss: 22evict: 18
+op:M	addr:ff000384	sz:4
+hit: 41	miss: 22evict: 18
+op:I	addr:400581	sz:4
+hit: 41	miss: 22evict: 18
+op:L	addr:ff000384	sz:4
+hit: 42	miss: 22evict: 18
+op:I	addr:400585	sz:2
+hit: 42	miss: 22evict: 18
+op:I	addr:400533	sz:7
+hit: 42	miss: 22evict: 18
+op:S	addr:ff000388	sz:4
+hit: 43	miss: 22evict: 18
+op:I	addr:40053a	sz:2
+hit: 43	miss: 22evict: 18
+op:I	addr:400577	sz:4
+hit: 43	miss: 22evict: 18
+op:L	addr:ff000388	sz:4
+hit: 44	miss: 22evict: 18
+op:I	addr:40057b	sz:2
+hit: 44	miss: 22evict: 18
+op:I	addr:40053c	sz:3
+hit: 44	miss: 22evict: 18
+op:L	addr:ff000384	sz:4
+hit: 45	miss: 22evict: 18
+op:I	addr:40053f	sz:2
+hit: 45	miss: 22evict: 18
+op:I	addr:400541	sz:4
+hit: 45	miss: 22evict: 18
+op:I	addr:400545	sz:3
+hit: 45	miss: 22evict: 18
+op:I	addr:400548	sz:4
+hit: 45	miss: 22evict: 18
+op:L	addr:ff000378	sz:8
+hit: 46	miss: 22evict: 18
+op:I	addr:40054c	sz:3
+hit: 46	miss: 22evict: 18
+op:L	addr:ff000388	sz:4
+hit: 47	miss: 22evict: 18
+op:I	addr:40054f	sz:2
+hit: 47	miss: 22evict: 18
+op:I	addr:400551	sz:3
+hit: 47	miss: 22evict: 18
+op:L	addr:600a30	sz:4
+hit: 47	miss: 23evict: 19
+op:I	addr:400554	sz:3
+hit: 47	miss: 23evict: 19
+op:S	addr:ff00038c	sz:4
+hit: 48	miss: 23evict: 19
+op:I	addr:400557	sz:3
+hit: 48	miss: 23evict: 19
+op:L	addr:ff000388	sz:4
+hit: 49	miss: 23evict: 19
+op:I	addr:40055a	sz:2
+hit: 49	miss: 23evict: 19
+op:I	addr:40055c	sz:4
+hit: 49	miss: 23evict: 19
+op:I	addr:400560	sz:3
+hit: 49	miss: 23evict: 19
+op:I	addr:400563	sz:4
+hit: 49	miss: 23evict: 19
+op:L	addr:ff000370	sz:8
+hit: 49	miss: 24evict: 20
+op:I	addr:400567	sz:3
+hit: 49	miss: 24evict: 20
+op:L	addr:ff000384	sz:4
+hit: 50	miss: 24evict: 20
+op:I	addr:40056a	sz:3
+hit: 50	miss: 24evict: 20
+op:I	addr:40056d	sz:3
+hit: 50	miss: 24evict: 20
+op:L	addr:ff00038c	sz:4
+hit: 51	miss: 24evict: 20
+op:I	addr:400570	sz:3
+hit: 51	miss: 24evict: 20
+op:S	addr:600a64	sz:4
+hit: 51	miss: 25evict: 21
+op:I	addr:400573	sz:4
+hit: 51	miss: 25evict: 21
+op:M	addr:ff000388	sz:4
+hit: 53	miss: 25evict: 21
+op:I	addr:400577	sz:4
+hit: 53	miss: 25evict: 21
+op:L	addr:ff000388	sz:4
+hit: 54	miss: 25evict: 21
+op:I	addr:40057b	sz:2
+hit: 54	miss: 25evict: 21
+op:I	addr:40053c	sz:3
+hit: 54	miss: 25evict: 21
+op:L	addr:ff000384	sz:4
+hit: 54	miss: 26evict: 22
+op:I	addr:40053f	sz:2
+hit: 54	miss: 26evict: 22
+op:I	addr:400541	sz:4
+hit: 54	miss: 26evict: 22
+op:I	addr:400545	sz:3
+hit: 54	miss: 26evict: 22
+op:I	addr:400548	sz:4
+hit: 54	miss: 26evict: 22
+op:L	addr:ff000378	sz:8
+hit: 55	miss: 26evict: 22
+op:I	addr:40054c	sz:3
+hit: 55	miss: 26evict: 22
+op:L	addr:ff000388	sz:4
+hit: 56	miss: 26evict: 22
+op:I	addr:40054f	sz:2
+hit: 56	miss: 26evict: 22
+op:I	addr:400551	sz:3
+hit: 56	miss: 26evict: 22
+op:L	addr:600a34	sz:4
+hit: 56	miss: 27evict: 23
+op:I	addr:400554	sz:3
+hit: 56	miss: 27evict: 23
+op:S	addr:ff00038c	sz:4
+hit: 57	miss: 27evict: 23
+op:I	addr:400557	sz:3
+hit: 57	miss: 27evict: 23
+op:L	addr:ff000388	sz:4
+hit: 58	miss: 27evict: 23
+op:I	addr:40055a	sz:2
+hit: 58	miss: 27evict: 23
+op:I	addr:40055c	sz:4
+hit: 58	miss: 27evict: 23
+op:I	addr:400560	sz:3
+hit: 58	miss: 27evict: 23
+op:I	addr:400563	sz:4
+hit: 58	miss: 27evict: 23
+op:L	addr:ff000370	sz:8
+hit: 58	miss: 28evict: 24
+op:I	addr:400567	sz:3
+hit: 58	miss: 28evict: 24
+op:L	addr:ff000384	sz:4
+hit: 59	miss: 28evict: 24
+op:I	addr:40056a	sz:3
+hit: 59	miss: 28evict: 24
+op:I	addr:40056d	sz:3
+hit: 59	miss: 28evict: 24
+op:L	addr:ff00038c	sz:4
+hit: 60	miss: 28evict: 24
+op:I	addr:400570	sz:3
+hit: 60	miss: 28evict: 24
+op:S	addr:600a74	sz:4
+hit: 60	miss: 29evict: 25
+op:I	addr:400573	sz:4
+hit: 60	miss: 29evict: 25
+op:M	addr:ff000388	sz:4
+hit: 62	miss: 29evict: 25
+op:I	addr:400577	sz:4
+hit: 62	miss: 29evict: 25
+op:L	addr:ff000388	sz:4
+hit: 63	miss: 29evict: 25
+op:I	addr:40057b	sz:2
+hit: 63	miss: 29evict: 25
+op:I	addr:40053c	sz:3
+hit: 63	miss: 29evict: 25
+op:L	addr:ff000384	sz:4
+hit: 64	miss: 29evict: 25
+op:I	addr:40053f	sz:2
+hit: 64	miss: 29evict: 25
+op:I	addr:400541	sz:4
+hit: 64	miss: 29evict: 25
+op:I	addr:400545	sz:3
+hit: 64	miss: 29evict: 25
+op:I	addr:400548	sz:4
+hit: 64	miss: 29evict: 25
+op:L	addr:ff000378	sz:8
+hit: 65	miss: 29evict: 25
+op:I	addr:40054c	sz:3
+hit: 65	miss: 29evict: 25
+op:L	addr:ff000388	sz:4
+hit: 66	miss: 29evict: 25
+op:I	addr:40054f	sz:2
+hit: 66	miss: 29evict: 25
+op:I	addr:400551	sz:3
+hit: 66	miss: 29evict: 25
+op:L	addr:600a38	sz:4
+hit: 66	miss: 30evict: 26
+op:I	addr:400554	sz:3
+hit: 66	miss: 30evict: 26
+op:S	addr:ff00038c	sz:4
+hit: 67	miss: 30evict: 26
+op:I	addr:400557	sz:3
+hit: 67	miss: 30evict: 26
+op:L	addr:ff000388	sz:4
+hit: 68	miss: 30evict: 26
+op:I	addr:40055a	sz:2
+hit: 68	miss: 30evict: 26
+op:I	addr:40055c	sz:4
+hit: 68	miss: 30evict: 26
+op:I	addr:400560	sz:3
+hit: 68	miss: 30evict: 26
+op:I	addr:400563	sz:4
+hit: 68	miss: 30evict: 26
+op:L	addr:ff000370	sz:8
+hit: 68	miss: 31evict: 27
+op:I	addr:400567	sz:3
+hit: 68	miss: 31evict: 27
+op:L	addr:ff000384	sz:4
+hit: 69	miss: 31evict: 27
+op:I	addr:40056a	sz:3
+hit: 69	miss: 31evict: 27
+op:I	addr:40056d	sz:3
+hit: 69	miss: 31evict: 27
+op:L	addr:ff00038c	sz:4
+hit: 70	miss: 31evict: 27
+op:I	addr:400570	sz:3
+hit: 70	miss: 31evict: 27
+op:S	addr:600a84	sz:4
+hit: 70	miss: 32evict: 28
+op:I	addr:400573	sz:4
+hit: 70	miss: 32evict: 28
+op:M	addr:ff000388	sz:4
+hit: 72	miss: 32evict: 28
+op:I	addr:400577	sz:4
+hit: 72	miss: 32evict: 28
+op:L	addr:ff000388	sz:4
+hit: 73	miss: 32evict: 28
+op:I	addr:40057b	sz:2
+hit: 73	miss: 32evict: 28
+op:I	addr:40053c	sz:3
+hit: 73	miss: 32evict: 28
+op:L	addr:ff000384	sz:4
+hit: 73	miss: 33evict: 29
+op:I	addr:40053f	sz:2
+hit: 73	miss: 33evict: 29
+op:I	addr:400541	sz:4
+hit: 73	miss: 33evict: 29
+op:I	addr:400545	sz:3
+hit: 73	miss: 33evict: 29
+op:I	addr:400548	sz:4
+hit: 73	miss: 33evict: 29
+op:L	addr:ff000378	sz:8
+hit: 73	miss: 34evict: 30
+op:I	addr:40054c	sz:3
+hit: 73	miss: 34evict: 30
+op:L	addr:ff000388	sz:4
+hit: 74	miss: 34evict: 30
+op:I	addr:40054f	sz:2
+hit: 74	miss: 34evict: 30
+op:I	addr:400551	sz:3
+hit: 74	miss: 34evict: 30
+op:L	addr:600a3c	sz:4
+hit: 74	miss: 35evict: 31
+op:I	addr:400554	sz:3
+hit: 74	miss: 35evict: 31
+op:S	addr:ff00038c	sz:4
+hit: 75	miss: 35evict: 31
+op:I	addr:400557	sz:3
+hit: 75	miss: 35evict: 31
+op:L	addr:ff000388	sz:4
+hit: 76	miss: 35evict: 31
+op:I	addr:40055a	sz:2
+hit: 76	miss: 35evict: 31
+op:I	addr:40055c	sz:4
+hit: 76	miss: 35evict: 31
+op:I	addr:400560	sz:3
+hit: 76	miss: 35evict: 31
+op:I	addr:400563	sz:4
+hit: 76	miss: 35evict: 31
+op:L	addr:ff000370	sz:8
+hit: 77	miss: 35evict: 31
+op:I	addr:400567	sz:3
+hit: 77	miss: 35evict: 31
+op:L	addr:ff000384	sz:4
+hit: 78	miss: 35evict: 31
+op:I	addr:40056a	sz:3
+hit: 78	miss: 35evict: 31
+op:I	addr:40056d	sz:3
+hit: 78	miss: 35evict: 31
+op:L	addr:ff00038c	sz:4
+hit: 79	miss: 35evict: 31
+op:I	addr:400570	sz:3
+hit: 79	miss: 35evict: 31
+op:S	addr:600a94	sz:4
+hit: 79	miss: 36evict: 32
+op:I	addr:400573	sz:4
+hit: 79	miss: 36evict: 32
+op:M	addr:ff000388	sz:4
+hit: 81	miss: 36evict: 32
+op:I	addr:400577	sz:4
+hit: 81	miss: 36evict: 32
+op:L	addr:ff000388	sz:4
+hit: 82	miss: 36evict: 32
+op:I	addr:40057b	sz:2
+hit: 82	miss: 36evict: 32
+op:I	addr:40057d	sz:4
+hit: 82	miss: 36evict: 32
+op:M	addr:ff000384	sz:4
+hit: 84	miss: 36evict: 32
+op:I	addr:400581	sz:4
+hit: 84	miss: 36evict: 32
+op:L	addr:ff000384	sz:4
+hit: 85	miss: 36evict: 32
+op:I	addr:400585	sz:2
+hit: 85	miss: 36evict: 32
+op:I	addr:400533	sz:7
+hit: 85	miss: 36evict: 32
+op:S	addr:ff000388	sz:4
+hit: 86	miss: 36evict: 32
+op:I	addr:40053a	sz:2
+hit: 86	miss: 36evict: 32
+op:I	addr:400577	sz:4
+hit: 86	miss: 36evict: 32
+op:L	addr:ff000388	sz:4
+hit: 87	miss: 36evict: 32
+op:I	addr:40057b	sz:2
+hit: 87	miss: 36evict: 32
+op:I	addr:40053c	sz:3
+hit: 87	miss: 36evict: 32
+op:L	addr:ff000384	sz:4
+hit: 88	miss: 36evict: 32
+op:I	addr:40053f	sz:2
+hit: 88	miss: 36evict: 32
+op:I	addr:400541	sz:4
+hit: 88	miss: 36evict: 32
+op:I	addr:400545	sz:3
+hit: 88	miss: 36evict: 32
+op:I	addr:400548	sz:4
+hit: 88	miss: 36evict: 32
+op:L	addr:ff000378	sz:8
+hit: 88	miss: 37evict: 33
+op:I	addr:40054c	sz:3
+hit: 88	miss: 37evict: 33
+op:L	addr:ff000388	sz:4
+hit: 89	miss: 37evict: 33
+op:I	addr:40054f	sz:2
+hit: 89	miss: 37evict: 33
+op:I	addr:400551	sz:3
+hit: 89	miss: 37evict: 33
+op:L	addr:600a40	sz:4
+hit: 89	miss: 38evict: 34
+op:I	addr:400554	sz:3
+hit: 89	miss: 38evict: 34
+op:S	addr:ff00038c	sz:4
+hit: 90	miss: 38evict: 34
+op:I	addr:400557	sz:3
+hit: 90	miss: 38evict: 34
+op:L	addr:ff000388	sz:4
+hit: 91	miss: 38evict: 34
+op:I	addr:40055a	sz:2
+hit: 91	miss: 38evict: 34
+op:I	addr:40055c	sz:4
+hit: 91	miss: 38evict: 34
+op:I	addr:400560	sz:3
+hit: 91	miss: 38evict: 34
+op:I	addr:400563	sz:4
+hit: 91	miss: 38evict: 34
+op:L	addr:ff000370	sz:8
+hit: 91	miss: 39evict: 35
+op:I	addr:400567	sz:3
+hit: 91	miss: 39evict: 35
+op:L	addr:ff000384	sz:4
+hit: 91	miss: 40evict: 36
+op:I	addr:40056a	sz:3
+hit: 91	miss: 40evict: 36
+op:I	addr:40056d	sz:3
+hit: 91	miss: 40evict: 36
+op:L	addr:ff00038c	sz:4
+hit: 92	miss: 40evict: 36
+op:I	addr:400570	sz:3
+hit: 92	miss: 40evict: 36
+op:S	addr:600a68	sz:4
+hit: 92	miss: 41evict: 37
+op:I	addr:400573	sz:4
+hit: 92	miss: 41evict: 37
+op:M	addr:ff000388	sz:4
+hit: 93	miss: 42evict: 38
+op:I	addr:400577	sz:4
+hit: 93	miss: 42evict: 38
+op:L	addr:ff000388	sz:4
+hit: 94	miss: 42evict: 38
+op:I	addr:40057b	sz:2
+hit: 94	miss: 42evict: 38
+op:I	addr:40053c	sz:3
+hit: 94	miss: 42evict: 38
+op:L	addr:ff000384	sz:4
+hit: 95	miss: 42evict: 38
+op:I	addr:40053f	sz:2
+hit: 95	miss: 42evict: 38
+op:I	addr:400541	sz:4
+hit: 95	miss: 42evict: 38
+op:I	addr:400545	sz:3
+hit: 95	miss: 42evict: 38
+op:I	addr:400548	sz:4
+hit: 95	miss: 42evict: 38
+op:L	addr:ff000378	sz:8
+hit: 96	miss: 42evict: 38
+op:I	addr:40054c	sz:3
+hit: 96	miss: 42evict: 38
+op:L	addr:ff000388	sz:4
+hit: 97	miss: 42evict: 38
+op:I	addr:40054f	sz:2
+hit: 97	miss: 42evict: 38
+op:I	addr:400551	sz:3
+hit: 97	miss: 42evict: 38
+op:L	addr:600a44	sz:4
+hit: 97	miss: 43evict: 39
+op:I	addr:400554	sz:3
+hit: 97	miss: 43evict: 39
+op:S	addr:ff00038c	sz:4
+hit: 98	miss: 43evict: 39
+op:I	addr:400557	sz:3
+hit: 98	miss: 43evict: 39
+op:L	addr:ff000388	sz:4
+hit: 99	miss: 43evict: 39
+op:I	addr:40055a	sz:2
+hit: 99	miss: 43evict: 39
+op:I	addr:40055c	sz:4
+hit: 99	miss: 43evict: 39
+op:I	addr:400560	sz:3
+hit: 99	miss: 43evict: 39
+op:I	addr:400563	sz:4
+hit: 99	miss: 43evict: 39
+op:L	addr:ff000370	sz:8
+hit: 100	miss: 43evict: 39
+op:I	addr:400567	sz:3
+hit: 100	miss: 43evict: 39
+op:L	addr:ff000384	sz:4
+hit: 100	miss: 44evict: 40
+op:I	addr:40056a	sz:3
+hit: 100	miss: 44evict: 40
+op:I	addr:40056d	sz:3
+hit: 100	miss: 44evict: 40
+op:L	addr:ff00038c	sz:4
+hit: 101	miss: 44evict: 40
+op:I	addr:400570	sz:3
+hit: 101	miss: 44evict: 40
+op:S	addr:600a78	sz:4
+hit: 101	miss: 45evict: 41
+op:I	addr:400573	sz:4
+hit: 101	miss: 45evict: 41
+op:M	addr:ff000388	sz:4
+hit: 103	miss: 45evict: 41
+op:I	addr:400577	sz:4
+hit: 103	miss: 45evict: 41
+op:L	addr:ff000388	sz:4
+hit: 104	miss: 45evict: 41
+op:I	addr:40057b	sz:2
+hit: 104	miss: 45evict: 41
+op:I	addr:40053c	sz:3
+hit: 104	miss: 45evict: 41
+op:L	addr:ff000384	sz:4
+hit: 105	miss: 45evict: 41
+op:I	addr:40053f	sz:2
+hit: 105	miss: 45evict: 41
+op:I	addr:400541	sz:4
+hit: 105	miss: 45evict: 41
+op:I	addr:400545	sz:3
+hit: 105	miss: 45evict: 41
+op:I	addr:400548	sz:4
+hit: 105	miss: 45evict: 41
+op:L	addr:ff000378	sz:8
+hit: 105	miss: 46evict: 42
+op:I	addr:40054c	sz:3
+hit: 105	miss: 46evict: 42
+op:L	addr:ff000388	sz:4
+hit: 106	miss: 46evict: 42
+op:I	addr:40054f	sz:2
+hit: 106	miss: 46evict: 42
+op:I	addr:400551	sz:3
+hit: 106	miss: 46evict: 42
+op:L	addr:600a48	sz:4
+hit: 106	miss: 47evict: 43
+op:I	addr:400554	sz:3
+hit: 106	miss: 47evict: 43
+op:S	addr:ff00038c	sz:4
+hit: 106	miss: 48evict: 44
+op:I	addr:400557	sz:3
+hit: 106	miss: 48evict: 44
+op:L	addr:ff000388	sz:4
+hit: 107	miss: 48evict: 44
+op:I	addr:40055a	sz:2
+hit: 107	miss: 48evict: 44
+op:I	addr:40055c	sz:4
+hit: 107	miss: 48evict: 44
+op:I	addr:400560	sz:3
+hit: 107	miss: 48evict: 44
+op:I	addr:400563	sz:4
+hit: 107	miss: 48evict: 44
+op:L	addr:ff000370	sz:8
+hit: 108	miss: 48evict: 44
+op:I	addr:400567	sz:3
+hit: 108	miss: 48evict: 44
+op:L	addr:ff000384	sz:4
+hit: 109	miss: 48evict: 44
+op:I	addr:40056a	sz:3
+hit: 109	miss: 48evict: 44
+op:I	addr:40056d	sz:3
+hit: 109	miss: 48evict: 44
+op:L	addr:ff00038c	sz:4
+hit: 110	miss: 48evict: 44
+op:I	addr:400570	sz:3
+hit: 110	miss: 48evict: 44
+op:S	addr:600a88	sz:4
+hit: 110	miss: 49evict: 45
+op:I	addr:400573	sz:4
+hit: 110	miss: 49evict: 45
+op:M	addr:ff000388	sz:4
+hit: 111	miss: 50evict: 46
+op:I	addr:400577	sz:4
+hit: 111	miss: 50evict: 46
+op:L	addr:ff000388	sz:4
+hit: 112	miss: 50evict: 46
+op:I	addr:40057b	sz:2
+hit: 112	miss: 50evict: 46
+op:I	addr:40053c	sz:3
+hit: 112	miss: 50evict: 46
+op:L	addr:ff000384	sz:4
+hit: 113	miss: 50evict: 46
+op:I	addr:40053f	sz:2
+hit: 113	miss: 50evict: 46
+op:I	addr:400541	sz:4
+hit: 113	miss: 50evict: 46
+op:I	addr:400545	sz:3
+hit: 113	miss: 50evict: 46
+op:I	addr:400548	sz:4
+hit: 113	miss: 50evict: 46
+op:L	addr:ff000378	sz:8
+hit: 114	miss: 50evict: 46
+op:I	addr:40054c	sz:3
+hit: 114	miss: 50evict: 46
+op:L	addr:ff000388	sz:4
+hit: 115	miss: 50evict: 46
+op:I	addr:40054f	sz:2
+hit: 115	miss: 50evict: 46
+op:I	addr:400551	sz:3
+hit: 115	miss: 50evict: 46
+op:L	addr:600a4c	sz:4
+hit: 115	miss: 51evict: 47
+op:I	addr:400554	sz:3
+hit: 115	miss: 51evict: 47
+op:S	addr:ff00038c	sz:4
+hit: 115	miss: 52evict: 48
+op:I	addr:400557	sz:3
+hit: 115	miss: 52evict: 48
+op:L	addr:ff000388	sz:4
+hit: 116	miss: 52evict: 48
+op:I	addr:40055a	sz:2
+hit: 116	miss: 52evict: 48
+op:I	addr:40055c	sz:4
+hit: 116	miss: 52evict: 48
+op:I	addr:400560	sz:3
+hit: 116	miss: 52evict: 48
+op:I	addr:400563	sz:4
+hit: 116	miss: 52evict: 48
+op:L	addr:ff000370	sz:8
+hit: 117	miss: 52evict: 48
+op:I	addr:400567	sz:3
+hit: 117	miss: 52evict: 48
+op:L	addr:ff000384	sz:4
+hit: 118	miss: 52evict: 48
+op:I	addr:40056a	sz:3
+hit: 118	miss: 52evict: 48
+op:I	addr:40056d	sz:3
+hit: 118	miss: 52evict: 48
+op:L	addr:ff00038c	sz:4
+hit: 119	miss: 52evict: 48
+op:I	addr:400570	sz:3
+hit: 119	miss: 52evict: 48
+op:S	addr:600a98	sz:4
+hit: 119	miss: 53evict: 49
+op:I	addr:400573	sz:4
+hit: 119	miss: 53evict: 49
+op:M	addr:ff000388	sz:4
+hit: 121	miss: 53evict: 49
+op:I	addr:400577	sz:4
+hit: 121	miss: 53evict: 49
+op:L	addr:ff000388	sz:4
+hit: 122	miss: 53evict: 49
+op:I	addr:40057b	sz:2
+hit: 122	miss: 53evict: 49
+op:I	addr:40057d	sz:4
+hit: 122	miss: 53evict: 49
+op:M	addr:ff000384	sz:4
+hit: 124	miss: 53evict: 49
+op:I	addr:400581	sz:4
+hit: 124	miss: 53evict: 49
+op:L	addr:ff000384	sz:4
+hit: 125	miss: 53evict: 49
+op:I	addr:400585	sz:2
+hit: 125	miss: 53evict: 49
+op:I	addr:400533	sz:7
+hit: 125	miss: 53evict: 49
+op:S	addr:ff000388	sz:4
+hit: 126	miss: 53evict: 49
+op:I	addr:40053a	sz:2
+hit: 126	miss: 53evict: 49
+op:I	addr:400577	sz:4
+hit: 126	miss: 53evict: 49
+op:L	addr:ff000388	sz:4
+hit: 127	miss: 53evict: 49
+op:I	addr:40057b	sz:2
+hit: 127	miss: 53evict: 49
+op:I	addr:40053c	sz:3
+hit: 127	miss: 53evict: 49
+op:L	addr:ff000384	sz:4
+hit: 128	miss: 53evict: 49
+op:I	addr:40053f	sz:2
+hit: 128	miss: 53evict: 49
+op:I	addr:400541	sz:4
+hit: 128	miss: 53evict: 49
+op:I	addr:400545	sz:3
+hit: 128	miss: 53evict: 49
+op:I	addr:400548	sz:4
+hit: 128	miss: 53evict: 49
+op:L	addr:ff000378	sz:8
+hit: 128	miss: 54evict: 50
+op:I	addr:40054c	sz:3
+hit: 128	miss: 54evict: 50
+op:L	addr:ff000388	sz:4
+hit: 129	miss: 54evict: 50
+op:I	addr:40054f	sz:2
+hit: 129	miss: 54evict: 50
+op:I	addr:400551	sz:3
+hit: 129	miss: 54evict: 50
+op:L	addr:600a50	sz:4
+hit: 129	miss: 55evict: 51
+op:I	addr:400554	sz:3
+hit: 129	miss: 55evict: 51
+op:S	addr:ff00038c	sz:4
+hit: 130	miss: 55evict: 51
+op:I	addr:400557	sz:3
+hit: 130	miss: 55evict: 51
+op:L	addr:ff000388	sz:4
+hit: 131	miss: 55evict: 51
+op:I	addr:40055a	sz:2
+hit: 131	miss: 55evict: 51
+op:I	addr:40055c	sz:4
+hit: 131	miss: 55evict: 51
+op:I	addr:400560	sz:3
+hit: 131	miss: 55evict: 51
+op:I	addr:400563	sz:4
+hit: 131	miss: 55evict: 51
+op:L	addr:ff000370	sz:8
+hit: 131	miss: 56evict: 52
+op:I	addr:400567	sz:3
+hit: 131	miss: 56evict: 52
+op:L	addr:ff000384	sz:4
+hit: 132	miss: 56evict: 52
+op:I	addr:40056a	sz:3
+hit: 132	miss: 56evict: 52
+op:I	addr:40056d	sz:3
+hit: 132	miss: 56evict: 52
+op:L	addr:ff00038c	sz:4
+hit: 133	miss: 56evict: 52
+op:I	addr:400570	sz:3
+hit: 133	miss: 56evict: 52
+op:S	addr:600a6c	sz:4
+hit: 133	miss: 57evict: 53
+op:I	addr:400573	sz:4
+hit: 133	miss: 57evict: 53
+op:M	addr:ff000388	sz:4
+hit: 134	miss: 58evict: 54
+op:I	addr:400577	sz:4
+hit: 134	miss: 58evict: 54
+op:L	addr:ff000388	sz:4
+hit: 135	miss: 58evict: 54
+op:I	addr:40057b	sz:2
+hit: 135	miss: 58evict: 54
+op:I	addr:40053c	sz:3
+hit: 135	miss: 58evict: 54
+op:L	addr:ff000384	sz:4
+hit: 136	miss: 58evict: 54
+op:I	addr:40053f	sz:2
+hit: 136	miss: 58evict: 54
+op:I	addr:400541	sz:4
+hit: 136	miss: 58evict: 54
+op:I	addr:400545	sz:3
+hit: 136	miss: 58evict: 54
+op:I	addr:400548	sz:4
+hit: 136	miss: 58evict: 54
+op:L	addr:ff000378	sz:8
+hit: 137	miss: 58evict: 54
+op:I	addr:40054c	sz:3
+hit: 137	miss: 58evict: 54
+op:L	addr:ff000388	sz:4
+hit: 138	miss: 58evict: 54
+op:I	addr:40054f	sz:2
+hit: 138	miss: 58evict: 54
+op:I	addr:400551	sz:3
+hit: 138	miss: 58evict: 54
+op:L	addr:600a54	sz:4
+hit: 138	miss: 59evict: 55
+op:I	addr:400554	sz:3
+hit: 138	miss: 59evict: 55
+op:S	addr:ff00038c	sz:4
+hit: 139	miss: 59evict: 55
+op:I	addr:400557	sz:3
+hit: 139	miss: 59evict: 55
+op:L	addr:ff000388	sz:4
+hit: 140	miss: 59evict: 55
+op:I	addr:40055a	sz:2
+hit: 140	miss: 59evict: 55
+op:I	addr:40055c	sz:4
+hit: 140	miss: 59evict: 55
+op:I	addr:400560	sz:3
+hit: 140	miss: 59evict: 55
+op:I	addr:400563	sz:4
+hit: 140	miss: 59evict: 55
+op:L	addr:ff000370	sz:8
+hit: 140	miss: 60evict: 56
+op:I	addr:400567	sz:3
+hit: 140	miss: 60evict: 56
+op:L	addr:ff000384	sz:4
+hit: 141	miss: 60evict: 56
+op:I	addr:40056a	sz:3
+hit: 141	miss: 60evict: 56
+op:I	addr:40056d	sz:3
+hit: 141	miss: 60evict: 56
+op:L	addr:ff00038c	sz:4
+hit: 142	miss: 60evict: 56
+op:I	addr:400570	sz:3
+hit: 142	miss: 60evict: 56
+op:S	addr:600a7c	sz:4
+hit: 142	miss: 61evict: 57
+op:I	addr:400573	sz:4
+hit: 142	miss: 61evict: 57
+op:M	addr:ff000388	sz:4
+hit: 144	miss: 61evict: 57
+op:I	addr:400577	sz:4
+hit: 144	miss: 61evict: 57
+op:L	addr:ff000388	sz:4
+hit: 145	miss: 61evict: 57
+op:I	addr:40057b	sz:2
+hit: 145	miss: 61evict: 57
+op:I	addr:40053c	sz:3
+hit: 145	miss: 61evict: 57
+op:L	addr:ff000384	sz:4
+hit: 146	miss: 61evict: 57
+op:I	addr:40053f	sz:2
+hit: 146	miss: 61evict: 57
+op:I	addr:400541	sz:4
+hit: 146	miss: 61evict: 57
+op:I	addr:400545	sz:3
+hit: 146	miss: 61evict: 57
+op:I	addr:400548	sz:4
+hit: 146	miss: 61evict: 57
+op:L	addr:ff000378	sz:8
+hit: 146	miss: 62evict: 58
+op:I	addr:40054c	sz:3
+hit: 146	miss: 62evict: 58
+op:L	addr:ff000388	sz:4
+hit: 147	miss: 62evict: 58
+op:I	addr:40054f	sz:2
+hit: 147	miss: 62evict: 58
+op:I	addr:400551	sz:3
+hit: 147	miss: 62evict: 58
+op:L	addr:600a58	sz:4
+hit: 147	miss: 63evict: 59
+op:I	addr:400554	sz:3
+hit: 147	miss: 63evict: 59
+op:S	addr:ff00038c	sz:4
+hit: 148	miss: 63evict: 59
+op:I	addr:400557	sz:3
+hit: 148	miss: 63evict: 59
+op:L	addr:ff000388	sz:4
+hit: 149	miss: 63evict: 59
+op:I	addr:40055a	sz:2
+hit: 149	miss: 63evict: 59
+op:I	addr:40055c	sz:4
+hit: 149	miss: 63evict: 59
+op:I	addr:400560	sz:3
+hit: 149	miss: 63evict: 59
+op:I	addr:400563	sz:4
+hit: 149	miss: 63evict: 59
+op:L	addr:ff000370	sz:8
+hit: 150	miss: 63evict: 59
+op:I	addr:400567	sz:3
+hit: 150	miss: 63evict: 59
+op:L	addr:ff000384	sz:4
+hit: 151	miss: 63evict: 59
+op:I	addr:40056a	sz:3
+hit: 151	miss: 63evict: 59
+op:I	addr:40056d	sz:3
+hit: 151	miss: 63evict: 59
+op:L	addr:ff00038c	sz:4
+hit: 152	miss: 63evict: 59
+op:I	addr:400570	sz:3
+hit: 152	miss: 63evict: 59
+op:S	addr:600a8c	sz:4
+hit: 152	miss: 64evict: 60
+op:I	addr:400573	sz:4
+hit: 152	miss: 64evict: 60
+op:M	addr:ff000388	sz:4
+hit: 153	miss: 65evict: 61
+op:I	addr:400577	sz:4
+hit: 153	miss: 65evict: 61
+op:L	addr:ff000388	sz:4
+hit: 154	miss: 65evict: 61
+op:I	addr:40057b	sz:2
+hit: 154	miss: 65evict: 61
+op:I	addr:40053c	sz:3
+hit: 154	miss: 65evict: 61
+op:L	addr:ff000384	sz:4
+hit: 155	miss: 65evict: 61
+op:I	addr:40053f	sz:2
+hit: 155	miss: 65evict: 61
+op:I	addr:400541	sz:4
+hit: 155	miss: 65evict: 61
+op:I	addr:400545	sz:3
+hit: 155	miss: 65evict: 61
+op:I	addr:400548	sz:4
+hit: 155	miss: 65evict: 61
+op:L	addr:ff000378	sz:8
+hit: 155	miss: 66evict: 62
+op:I	addr:40054c	sz:3
+hit: 155	miss: 66evict: 62
+op:L	addr:ff000388	sz:4
+hit: 156	miss: 66evict: 62
+op:I	addr:40054f	sz:2
+hit: 156	miss: 66evict: 62
+op:I	addr:400551	sz:3
+hit: 156	miss: 66evict: 62
+op:L	addr:600a5c	sz:4
+hit: 156	miss: 67evict: 63
+op:I	addr:400554	sz:3
+hit: 156	miss: 67evict: 63
+op:S	addr:ff00038c	sz:4
+hit: 157	miss: 67evict: 63
+op:I	addr:400557	sz:3
+hit: 157	miss: 67evict: 63
+op:L	addr:ff000388	sz:4
+hit: 158	miss: 67evict: 63
+op:I	addr:40055a	sz:2
+hit: 158	miss: 67evict: 63
+op:I	addr:40055c	sz:4
+hit: 158	miss: 67evict: 63
+op:I	addr:400560	sz:3
+hit: 158	miss: 67evict: 63
+op:I	addr:400563	sz:4
+hit: 158	miss: 67evict: 63
+op:L	addr:ff000370	sz:8
+hit: 159	miss: 67evict: 63
+op:I	addr:400567	sz:3
+hit: 159	miss: 67evict: 63
+op:L	addr:ff000384	sz:4
+hit: 160	miss: 67evict: 63
+op:I	addr:40056a	sz:3
+hit: 160	miss: 67evict: 63
+op:I	addr:40056d	sz:3
+hit: 160	miss: 67evict: 63
+op:L	addr:ff00038c	sz:4
+hit: 161	miss: 67evict: 63
+op:I	addr:400570	sz:3
+hit: 161	miss: 67evict: 63
+op:S	addr:600a9c	sz:4
+hit: 161	miss: 68evict: 64
+op:I	addr:400573	sz:4
+hit: 161	miss: 68evict: 64
+op:M	addr:ff000388	sz:4
+hit: 163	miss: 68evict: 64
+op:I	addr:400577	sz:4
+hit: 163	miss: 68evict: 64
+op:L	addr:ff000388	sz:4
+hit: 164	miss: 68evict: 64
+op:I	addr:40057b	sz:2
+hit: 164	miss: 68evict: 64
+op:I	addr:40057d	sz:4
+hit: 164	miss: 68evict: 64
+op:M	addr:ff000384	sz:4
+hit: 166	miss: 68evict: 64
+op:I	addr:400581	sz:4
+hit: 166	miss: 68evict: 64
+op:L	addr:ff000384	sz:4
+hit: 167	miss: 68evict: 64
+op:I	addr:400585	sz:2
+hit: 167	miss: 68evict: 64
+op:I	addr:400587	sz:1
+hit: 167	miss: 68evict: 64
+op:L	addr:ff000390	sz:8
+hit: 167	miss: 69evict: 65
+op:I	addr:400588	sz:1
+hit: 167	miss: 69evict: 65
+op:L	addr:ff000398	sz:8
+hit: 167	miss: 70evict: 66
+op:I	addr:4005c5	sz:7
+hit: 167	miss: 70evict: 66
+op:L	addr:600aa0	sz:1
+hit: 167	miss: 71evict: 67
+hits:167 misses:71 evictions:67
